@@ -1,3 +1,6 @@
+// link to the simulator circuit : https://www.tinkercad.com/things/9XEzVc2t4HE-dustbin?sharecode=CJP5Mx0vRP6nZx9EIpmjqnhQIVnrCFHnXHVIZDA0TuI
+
+
 #include <Servo.h>
 
 Servo motor;  
